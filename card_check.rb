@@ -1,4 +1,4 @@
-# Checking Credit Cards
+# Checking Credit Cards by the Luhn algorithm
 class CardCheck
   def initialize(number)
     @cardnumber = number
